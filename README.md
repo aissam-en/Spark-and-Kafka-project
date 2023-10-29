@@ -1,5 +1,5 @@
 
-# Projet Spark et Kafka:
+# Projet Spark et Kafka
 
 Analyse en temps réel des données de trafic aérien à l’aide d’Apache Spark, Kafka, Elasticsearch et Kibana.
 
